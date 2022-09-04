@@ -1,6 +1,6 @@
 # file-watcher-black
 
-##Commands:
+
 Programs: $PyInterpreterDirectory$/black
 Arguments: $FilePath$
 Output paths to refresh: $FilePath$
