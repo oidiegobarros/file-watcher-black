@@ -11,4 +11,4 @@
     Output paths to refresh: $FilePath$
     Working directory: $ProjectFileDir$
 
-    Unset the fields auto-save and auto-trigger
+    Unset the fields auto-save and auto-trigger to improve your speed to programming.
